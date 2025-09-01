@@ -356,4 +356,4 @@ if run:
         st.dataframe(table.style.format("{:.1%}"))
 
 st.markdown("---")
-st.markdown("ⓒ 미림마이스터고 1학년 4반 2조 **지구야아프지말아조** · 수업 목적의 교육용 템플릿")
+st.markdown("ⓒ 미림마이스터고 1학년 4반 2조 **속눈썹조** · 수업 목적의 교육용 템플릿")
